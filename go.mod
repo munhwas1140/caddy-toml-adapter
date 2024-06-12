@@ -1,4 +1,4 @@
-module hello.com/tomladapter
+module github.com/munhwas1140/caddy-toml-adapter
 
 go 1.22.4
 
